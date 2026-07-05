@@ -1,0 +1,7 @@
+ScoutIQ starter repo generated successfully.
+
+Sample pipeline output file: data/processed/scoutiq_ranked_players.csv
+Rows ranked: 10
+Top sample player: Player I (GK) — 100.0
+
+Important: sample_players.csv is only for testing the MVP pipeline. Replace it with the real Kaggle Big 5 player dataset before final submission.
